@@ -4,6 +4,7 @@ RUN mkdir /home/src
 
 COPY requirements.txt /home/src
 COPY app.py /home/src
+COPY src/ /home/src
 
 WORKDIR /home/src
 
