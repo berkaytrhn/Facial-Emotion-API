@@ -1,5 +1,8 @@
 venv/
-/__pycache__
+__pycache__/
 
 *.h5
 *.log
+
+*.jpg
+*.png
