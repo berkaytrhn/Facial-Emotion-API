@@ -1,5 +1,5 @@
 # Facial-Emotion-API
-Backend API for Facial Emotion Classification Project, Will be accessed by web and mobile applications.
+<b>FastApi</b> API for Facial Emotion Classification Project, Will be accessed by web and mobile applications.
 
 <br>
 <br>
